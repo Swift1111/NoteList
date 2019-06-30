@@ -12,12 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hello wogfdgdfrld")
-        
-        print("hello worldddddd")
-        // Do any additional setup after loading the view.
-        
-        //cslkjnaslkcnkl
     }
 
 
